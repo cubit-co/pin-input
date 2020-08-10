@@ -1,7 +1,7 @@
 name: pin_input
-description: A new Flutter package project.
-version: 0.2.1
-author: Cubit
+description: A customizable pin input for your projects
+version: 0.2.2
+author: cubit.com.co
 homepage: https://www.cubit.com.co
 
 environment:
