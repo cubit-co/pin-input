@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:pin_input/pin_input.dart';
-import 'package:pin_input/pin_input_cursor.dart';
+import 'package:pin_input/src/pin_input_cursor.dart';
 
 const DEFAULT_LENGTH = 4;
 
